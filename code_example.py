@@ -2,7 +2,9 @@
 This is a copy of the main code used in the final week of my master's project, 
 to showcase the kind of code I wrote and used to produce the figures in the accompanying documents.
 
-Data was downloaded from "https://www.tng-project.org" (onto my Uni's server at the time due to the size of the simulation)
+Data was downloaded from "https://www.tng-project.org" 
+    onto my Uni's server at the time due to the size of the simulation;
+    it was then accessed via a remote kernel on Spyder which was the IDE I used.
 This code is not reproducible without downloading such data and editing variables such as basePath
 """
 #number density color-coding
