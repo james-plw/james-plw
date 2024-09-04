@@ -1,5 +1,12 @@
-#week10(1) number density color-coding
-import illustris_python.illustris_python as il
+"""
+This is a copy of the main code used in the final week of my master's project, 
+to showcase the kind of code I wrote and used to produce the figures in the accompanying documents.
+
+Data was downloaded from "https://www.tng-project.org" (onto my Uni's server at the time due to the size of the simulation)
+This code is not reproducible without downloading such data and editing variables such as basePath
+"""
+#number density color-coding
+import illustris_python.illustris_python as il #library for accessing the IllustrisTNG simulation data
 import numpy as np
 import matplotlib.pyplot as plt
 from scipy import stats
@@ -34,7 +41,7 @@ def density(xarr,yarr,xlabel,ylabel,bins):
     plt.xlabel(xlabel)
     plt.ylabel(ylabel)
 
-basePath = '/home/AstroPhysics-Shared/DATA/IllustrisTNG/TNG50-1/output/'
+basePath = '___path___/IllustrisTNG/TNG50-1/output/' #must be edited to match the path of your downloaded data if you want to run the code
 fields = ['GFM_Metallicity','StarFormationRate','Coordinates','Masses']
 subs_fields = ['SubhaloHalfmassRadType','SubhaloPos','SubhaloGasMetallicity',
                'SubhaloSFR','SubhaloMassType']
