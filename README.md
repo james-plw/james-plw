@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 ## Hi 👋 My name is James Wright
 =============================
 
-Physics Graduate looking to start a career in data analysis.
+Physics Graduate looking to start a career in data science.
 ------------------------------------------------------------
 
 I graduated from the University of Bath with a 2:1 in MPhys Physics with Astrophysics. This is where I became very accomplished at programming in both Python and C. Since graduating, I have completed online courses to further improve my Python skills, and to learn SQL, to achieve my career goals of working in data.
