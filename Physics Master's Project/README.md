@@ -3,7 +3,7 @@
 ## Objective
 
 In this project, I analysed data from the IllustrisTNG simulation to validate a contested theory:
-* The collapsar model predicts that long gamma-ray bursts (LGRBs) require a local metallicity of less than 30% solar metallicity.
+* The collapsar model predicts that long gamma-ray bursts (LGRBs) require a local metallicity of less than **30% solar metallicity**.
 * LGRBs are mostly observed from host galaxies with metallicity greater than this limit. 
 * This discrepancy means the collapsar model could be wrong!
 * Due to technological constraints, we cannot currently measure the local metallicity of LGRBs.
@@ -51,18 +51,19 @@ The following technologies are used to build this project:
 ## Results
 
 * The metallicities, star formation rates, and stellar masses of the randomly selected galaxy sample were plotted as cumulative distribution functions to be compared with observation.
-* The model that best-matched the observational data, had a metallicity limit of 30% solar (just like the collapsar model) and had a greater weighting on F, so it was more likely to select galaxies with a high fraction of star-forming cells below the metallicity limit.
-* Basically, the model most like the collapsar model selected simulation data most comparable to real-life observations, and hence, **the collapsar model was validated, as it agreed with real-life observational data.**
-
 * The graphs below show that it was the relationships between the orange "sample" and the blue "total population" that were being compared between observation (left) and simulation (right)
 
-| Observation | Simulation (Collapsar Model) |
+| Observation | Simulation (Best Model) |
 | ------------- | ------------- |
 | ![image](https://github.com/user-attachments/assets/07604a85-6f4a-47c2-ac87-15a518d8e7f5) | ![image](https://github.com/user-attachments/assets/f9eb33fd-eeea-4bdd-b3a6-295656f1efbc) |
 | ![image](https://github.com/user-attachments/assets/e84ad3f5-e329-413a-a670-88a843552f4e) | ![image](https://github.com/user-attachments/assets/3c8fcb77-52cc-4481-af16-dca5a75b70a3) |
 | ![image](https://github.com/user-attachments/assets/59e92a35-a9ac-42b3-9833-667c4703fb50) | ![image](https://github.com/user-attachments/assets/3807eecc-c3a8-4e71-91f4-81d6edadee01) |
 
 The observational data was taken from: Palmerio JT, et al. Are long gamma-ray bursts biased tracers of star formation? Clues from the host galaxies of the Swift/BAT6 complete sample of bright LGRBs. Astron Astrophys. 2019 Mar;623(A26):1-18.
+
+* The model that best-matched the observational data (shown above), had a metallicity limit of **30% solar** and had a greater weighting on F, so it was more likely to select galaxies with a high fraction of star-forming cells below the metallicity limit.
+* This is exactly like what the collapsar model says!
+* So, the model most like the collapsar model selected simulation data most comparable to real-life observations, and hence, **the collapsar model was validated, as it agreed with real-life observational data.**
 
 ## Still interested?
 
