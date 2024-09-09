@@ -48,10 +48,9 @@ The following technologies are used to build this project:
 
 | Observation (Palmerio) | Simulation (Collapsar Model) |
 | ------------- | ------------- |
-| ![PalmerioZ](https://github.com/user-attachments/assets/fd80d925-4931-473b-8053-4169e6a047ad) | ![BEST_Z](https://github.com/user-attachments/assets/a70502f3-76b0-457d-9a23-37ec029e3d63) |
+| ![image](https://github.com/user-attachments/assets/07604a85-6f4a-47c2-ac87-15a518d8e7f5) | ![image](https://github.com/user-attachments/assets/f9eb33fd-eeea-4bdd-b3a6-295656f1efbc) |
 | Content Cell  | Content Cell  |
 
-![PalmerioZ](https://github.com/user-attachments/assets/fd80d925-4931-473b-8053-4169e6a047ad)![BEST_Z](https://github.com/user-attachments/assets/a70502f3-76b0-457d-9a23-37ec029e3d63)
 
 More plots can be found in both my [write-up](Report.pdf) of this project and the [presentation](Presentation.pptx) for it.
 
