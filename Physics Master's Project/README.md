@@ -14,10 +14,10 @@ The sections below will explain additional details on the data and technologies 
 ## Table of Contents
 
 - [Dataset Used](#dataset-used)
-- [Technologies](technologies)
+- [Technologies](#technologies)
 - [Methods](#methods)
 - [Results](#results)
-- [Still interested?](#still_interested?)
+- [Still interested?](#still_interested)
 
 ## Dataset Used
 
