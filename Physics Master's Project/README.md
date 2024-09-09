@@ -17,7 +17,7 @@ The sections below will explain additional details on the data and technologies 
 - [Technologies](#technologies)
 - [Methods](#methods)
 - [Results](#results)
-- [Still interested?](#still_interested)
+- [Still interested?](#still-interested?)
 
 ## Dataset Used
 
