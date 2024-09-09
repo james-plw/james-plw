@@ -13,9 +13,11 @@ The sections below will explain additional details on the data and technologies 
 
 ## Dataset Used
 
-This project used the TNG50-1 simulation thanks to its superior mass resolution, making it useful for investigating small-scale processes, which LGRBs are: they're on the stellar scale as opposed to the galaxy scale.
-The data is organised into one hundred snapshots at different redshifts (used to measure distance of astronomical objects, also can be related to the age of an observed object, so can be thought of simulation-time snapshots).
-Each snapshot has a set of attributes, such as redshift, number of each type of particle, and a catalogue of subhalos (galaxies) and halos (galaxy clusters). Each subhalo has a long list of attributes, including an associated star formation rate (SFR), mass and metallicity. The mass and metallicity are both divided into different components such as gas and stars. This information is also present at the particle-level, for intra-galaxy analysis.
+* This project used the TNG50-1 simulation thanks to its superior mass resolution, making it useful for investigating small-scale processes, which LGRBs are: they're on the stellar scale as opposed to the galaxy scale.
+* The data is organised into one hundred snapshots at different redshifts (used to measure distance of astronomical objects, also can be related to the age of an observed object, so can be thought of simulation-time snapshots).
+* Each snapshot has a set of attributes, such as redshift, number of each type of particle, and a catalogue of subhalos (galaxies) and halos (galaxy clusters).
+* Each subhalo has a long list of attributes, including an associated star formation rate (SFR), mass and metallicity. The mass and metallicity are both divided into different components such as gas and stars.
+* This information is also present at the particle-level, for intra-galaxy analysis.
 
 More info about the simulation can be found on the website: https://www.tng-project.org
 
@@ -30,5 +32,11 @@ The following technologies are used to build this project:
 ## Outcome
 
 
+
+## Still interested?
+
+* For as many details as possible on this project, read the [report](Report.pdf).
+* For more details, but in a less wordy format, view the [PowerPoint presentation](Presentation.pptx).
+* For a look into the type of python code written for this project, see the [code example](code_example.py).
 
 ***
