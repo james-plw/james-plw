@@ -24,6 +24,10 @@ I graduated from the University of Bath with a 2:1 in MPhys Physics with Astroph
 * ✉️  You can contact me at [james.wright2@bath.edu](mailto:james.wright2@bath.edu)
 * 🧠  I'm learning SQL
 
+### Projects
+
+You can read about my Master's Project, which involved analysing simulation data to validate a contested Physics theory,[here](Physics Master's Project/README.md).
+
 ### Skills
 
 
