@@ -1,9 +1,9 @@
-# 💫🌟 Physics Master's Project - Data Analysis of a Simulation
+# 💫🌟 Physics Master's Project - Data Analysis of a Cosmological Simulation
 
 ## Objective
 
 In this project, I analysed data from the IllustrisTNG simulation to validate a contested theory:
-* The collapsar model predicts that long gamma-ray bursts (LGRBs) require a local metallicity       of  less than 30% solar metallicity.
+* The collapsar model predicts that long gamma-ray bursts (LGRBs) require a local metallicity of less than 30% solar metallicity.
 * LGRBs are mostly observed from host galaxies with metallicity greater than this limit. 
 * This discrepancy means the collapsar model could be wrong!
 * Due to technological constraints, we cannot currently measure the local metallicity of LGRBs.
@@ -17,7 +17,7 @@ The sections below will explain additional details on the data and technologies 
 * The data is organised into one hundred snapshots at different redshifts (used to measure distance of astronomical objects, also can be related to the age of an observed object, so can be thought of simulation-time snapshots).
 * Each snapshot has a set of attributes, such as redshift, number of each type of particle, and a catalogue of subhalos (galaxies) and halos (galaxy clusters).
 * Each subhalo has a long list of attributes, including an associated star formation rate (SFR), mass and metallicity. The mass and metallicity are both divided into different components such as gas and stars.
-* This information is also present at the particle-level, for intra-galaxy analysis.
+* This information is also present at the "cell"-level, for intra-galaxy analysis.
 
 More info about the simulation can be found on the website: https://www.tng-project.org
 
@@ -29,9 +29,24 @@ The following technologies are used to build this project:
 - IDE: Spyder 
 - Storage: University Servers
 
-## Outcome
+## Methods
 
+* The objective was to obtain the necessary data from TNG, using a model to select galaxies likely to be GRB hosts, and compare this data with observations. 
+* Out of the hundred available snapshots, snapshot 33 (at redshift z ~ 2), was chosen for it being the most common redshift for observed LGRBs.
+* No GRBs have been observed from galaxies with very low stellar mass or from low SFR (passive) galaxies so these were filtered out of the data.
+* Within each galaxy remaining in the data, the cells were also filtered to only keep the star-forming cells.
+* Two variables were calculated:
+    - F = Fraction of star-forming cells with metallicity below the collapsar model limit
+    - T = Total star formation rate in these low-metallicity cells
+* The product of these variables was used as the weighting for the random selection of 1000 galaxies as GRB hosts, to match the collapsar model's predictions.
 
+## Results
+
+* The metallicities, star formation rates, and stellar masses of the randomly selected galaxy sample were plotted as cumulative distribution functions to be compared with observation.
+* The model that best-matched the observational data, had a metallicity limit of 30% solar (just like the collapsar model) and had a greater weighting on F, so it was more likely to select galaxies with a high fraction of star-forming cells below the metallicity limit.
+* Basically, the model most like the collapsar model selected simulation data most comparable to real-life observations, and hence, **the collapsar model was validated, as it agreed with real-life observational data.**
+
+Plots can be found in both my [write-up](Report.pdf) of this project and the [presentation](Presentation.pptx) for it.
 
 ## Still interested?
 
@@ -40,3 +55,6 @@ The following technologies are used to build this project:
 * For a look into the type of python code written for this project, see the [code example](code_example.py).
 
 ***
+
+![PalmerioMstar](https://github.com/user-attachments/assets/68602e98-a9c3-4401-a1c3-58a547414577)
+
