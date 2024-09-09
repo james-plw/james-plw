@@ -11,6 +11,14 @@ In this project, I analysed data from the IllustrisTNG simulation to validate a 
 
 The sections below will explain additional details on the data and technologies utilized.
 
+## Table of Contents
+
+- [Dataset Used](#dataset-used)
+- [Technologies](technologies)
+- [Methods](#methods)
+- [Results](#results)
+- [Still interested?](#still_interested?)
+
 ## Dataset Used
 
 * This project used the TNG50-1 simulation thanks to its superior mass resolution, making it useful for investigating small-scale processes, which LGRBs are: they're on the stellar scale as opposed to the galaxy scale.
@@ -54,9 +62,6 @@ The following technologies are used to build this project:
 
 The observational data was taken from: Palmerio JT, et al. Are long gamma-ray bursts biased tracers of star formation? Clues from the host galaxies of the Swift/BAT6 complete sample of bright LGRBs. Astron Astrophys. 2019 Mar;623(A26):1-18.
 
-
-More plots can be found in both my [write-up](Report.pdf) of this project and the [presentation](Presentation.pptx) for it.
-
 ## Still interested?
 
 * For as many details as possible on this project, read the [report](Report.pdf).
@@ -64,5 +69,3 @@ More plots can be found in both my [write-up](Report.pdf) of this project and th
 * For a look into the type of python code written for this project, see the [code example](code_example.py).
 
 ***
-
-
