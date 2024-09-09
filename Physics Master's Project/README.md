@@ -46,10 +46,13 @@ The following technologies are used to build this project:
 * The model that best-matched the observational data, had a metallicity limit of 30% solar (just like the collapsar model) and had a greater weighting on F, so it was more likely to select galaxies with a high fraction of star-forming cells below the metallicity limit.
 * Basically, the model most like the collapsar model selected simulation data most comparable to real-life observations, and hence, **the collapsar model was validated, as it agreed with real-life observational data.**
 
-| Observation (Palmerio) | Simulation (Collapsar Model) |
+| Observation | Simulation (Collapsar Model) |
 | ------------- | ------------- |
 | ![image](https://github.com/user-attachments/assets/07604a85-6f4a-47c2-ac87-15a518d8e7f5) | ![image](https://github.com/user-attachments/assets/f9eb33fd-eeea-4bdd-b3a6-295656f1efbc) |
-| Content Cell  | Content Cell  |
+| ![image](https://github.com/user-attachments/assets/e84ad3f5-e329-413a-a670-88a843552f4e) | ![image](https://github.com/user-attachments/assets/3c8fcb77-52cc-4481-af16-dca5a75b70a3) |
+| ![image](https://github.com/user-attachments/assets/59e92a35-a9ac-42b3-9833-667c4703fb50) | ![image](https://github.com/user-attachments/assets/3807eecc-c3a8-4e71-91f4-81d6edadee01) |
+
+The observational data was taken from: Palmerio JT, et al. Are long gamma-ray bursts biased tracers of star formation? Clues from the host galaxies of the Swift/BAT6 complete sample of bright LGRBs. Astron Astrophys. 2019 Mar;623(A26):1-18.
 
 
 More plots can be found in both my [write-up](Report.pdf) of this project and the [presentation](Presentation.pptx) for it.
