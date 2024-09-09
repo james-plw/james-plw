@@ -46,7 +46,12 @@ The following technologies are used to build this project:
 * The model that best-matched the observational data, had a metallicity limit of 30% solar (just like the collapsar model) and had a greater weighting on F, so it was more likely to select galaxies with a high fraction of star-forming cells below the metallicity limit.
 * Basically, the model most like the collapsar model selected simulation data most comparable to real-life observations, and hence, **the collapsar model was validated, as it agreed with real-life observational data.**
 
-Plots can be found in both my [write-up](Report.pdf) of this project and the [presentation](Presentation.pptx) for it.
+| Observation (Palmerio) | Simulation (Collapsar Model) |
+| ------------- | ------------- |
+| ![PalmerioZ](https://github.com/user-attachments/assets/fd80d925-4931-473b-8053-4169e6a047ad) | ![BEST_Z](https://github.com/user-attachments/assets/a70502f3-76b0-457d-9a23-37ec029e3d63) |
+| Content Cell  | Content Cell  |
+
+More plots can be found in both my [write-up](Report.pdf) of this project and the [presentation](Presentation.pptx) for it.
 
 ## Still interested?
 
