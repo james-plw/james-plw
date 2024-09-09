@@ -51,6 +51,8 @@ The following technologies are used to build this project:
 | ![PalmerioZ](https://github.com/user-attachments/assets/fd80d925-4931-473b-8053-4169e6a047ad) | ![BEST_Z](https://github.com/user-attachments/assets/a70502f3-76b0-457d-9a23-37ec029e3d63) |
 | Content Cell  | Content Cell  |
 
+![PalmerioZ](https://github.com/user-attachments/assets/fd80d925-4931-473b-8053-4169e6a047ad)![BEST_Z](https://github.com/user-attachments/assets/a70502f3-76b0-457d-9a23-37ec029e3d63)
+
 More plots can be found in both my [write-up](Report.pdf) of this project and the [presentation](Presentation.pptx) for it.
 
 ## Still interested?
@@ -61,5 +63,4 @@ More plots can be found in both my [write-up](Report.pdf) of this project and th
 
 ***
 
-![PalmerioMstar](https://github.com/user-attachments/assets/68602e98-a9c3-4401-a1c3-58a547414577)
 
