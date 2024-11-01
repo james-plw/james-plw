@@ -63,12 +63,10 @@ The following technologies are used to build this project:
 2. What is the best formation? - **4-3-3 was the 2nd most used formation and gave teams the greatest xG difference, probably because it was the main formation for Arsenal used, and they topped the table in Question 4**
 3. How does the xG per shot correlate with the average shot distance in that game? - **A power law fit this best, with the xG per shot decreasing as the average shot distance increased**
 4. How would the league table look like according the total xG difference? - **Arsenal top this table and Man City finish 2nd, the opposite of how the real league table ended up**
-5. Which team created the highest quality chances on average? - **Despite finishing 6th, Chelsea created the highest quality chances, with poor finishing letting them down clearly**
-- This was plotted but wasn't interesting enough to make the dashboard, it can be found [here](https://github.com/james-plw/james-plw/blob/main/Football%20Data%20Analysis%20Project/quality%20chances.png)
+5. Which team created the highest quality chances on average? - **Despite finishing 6th, Chelsea created the highest quality chances, with poor finishing letting them down clearly** This was plotted but wasn't interesting enough to make the dashboard, it can be found [here](https://github.com/james-plw/james-plw/blob/main/Football%20Data%20Analysis%20Project/quality%20chances.png)
 6. How does a team's conversion rate correlate with average shot distance in that game? - **A negative power law for this one, with conversion rate rapidly dropping off with increased average shot distance**
 7. What is the most exciting timeslot for a match (min 5 games)? - **Monday Night Football seemed to be the most exciting timeslot, with an average of 4 goals per game, double that of the most boring timeslot Tuesday 19:30**
-8. Did any referee have a particular bias towards home or away teams? - **Out of the most common refs, the most notable were Robert Jones massively favouring home teams (average points 2.14 vs 0.64) while Paul Tierney favoured away teams the most(away 1.52 vs 1.28 home)**
-- This wasn't plotted but the data from the query can be found [here](8refs.csv)
+8. Did any referee have a particular bias towards home or away teams? - **Out of the most common refs, the most notable were Robert Jones massively favouring home teams (average points 2.14 vs 0.64) while Paul Tierney favoured away teams the most(away 1.52 vs 1.28 home)** This wasn't plotted but the data from the query can be found [here](8refs.csv)
 
 ## Still interested?
 
