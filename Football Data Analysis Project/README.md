@@ -59,7 +59,8 @@ The following technologies are used to build this project:
 
 ![Premier League 23_24 Data Analysis](https://github.com/user-attachments/assets/ecd1a157-728d-44e3-987c-0f027b03c528)
 
-1. How do xG and Possession correlate? - **Logarithmic relation, where generally more possession lead to more xG**
+1. How do xG and Possession correlate?
+**Logarithmic relation, where generally more possession lead to more xG**
 2. What is the best formation? - **4-3-3 was the 2nd most used formation and gave teams the greatest xG difference, probably because it was the main formation for Arsenal used, and they topped the table in Question 4**
 3. How does the xG per shot correlate with the average shot distance in that game? - **A power law fit this best, with the xG per shot decreasing as the average shot distance increased**
 4. How would the league table look like according the total xG difference? - **Arsenal top this table and Man City finish 2nd, the opposite of how the real league table ended up**
