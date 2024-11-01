@@ -22,7 +22,7 @@ I graduated from the University of Bath with a 2:1 in MPhys Physics with Astroph
 
 * 🌍  I'm based near London, UK
 * ✉️  You can contact me at [james.wright2@bath.edu](mailto:james.wright2@bath.edu)
-* 🧠  I'm learning SQL
+* 🧠  I've recently learnt and practiced using SQL and Tableau
 
 ### Projects
 
