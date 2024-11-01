@@ -28,6 +28,8 @@ I graduated from the University of Bath with a 2:1 in MPhys Physics with Astroph
 
 You can read about my Master's Project, which involved analysing simulation data to validate a contested Physics theory, [here.](https://github.com/james-plw/james-plw/blob/main/Physics%20Master's%20Project)
 
+Since graduating, I have also completed a personal project, analysing some data from the 23/24 Premier League season, to practice using PYthon, SQL and Tableau. You can find that [here.](https://github.com/james-plw/james-plw/tree/main/Football%20Data%20Analysis%20Project)
+
 ### Skills
 
 
