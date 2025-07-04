@@ -30,6 +30,8 @@ You can read about my Master's Project, which involved analysing simulation data
 
 Since graduating, I have also completed a personal project, analysing some data from the 23/24 Premier League season, to practice using PYthon, SQL and Tableau. You can find that [here.](https://github.com/james-plw/james-plw/tree/main/Football%20Data%20Analysis%20Project)
 
+During my training at Sigma Labs, I created a full pipeline to connect museum ratings data from a Kafka topic to a Postgres database on RDS. This can be found [here.](https://github.com/james-plw/museum-advanced-data-project)
+
 ### Skills
 
 
