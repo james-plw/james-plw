@@ -32,6 +32,10 @@ Since graduating, I have also completed a personal project, analysing some data 
 
 During my training at Sigma Labs, I created a full pipeline to connect museum ratings data from a Kafka topic to a Postgres database on RDS. This can be found [here.](https://github.com/james-plw/museum-advanced-data-project)
 
+Another project completed during this training involved data migration from an RDS to an S3 bucket to save costs for a food truck company. This can be fround [here](https://github.com/james-plw/trucks-advanced-data-project).
+
+I was also part of a group project that obtained live data on plants from an API, transformed and loaded it into RDS for short-term storage, before moving it to an S3 bucket for long-term storage, before creating a live dashboard for the museum staff. The project repo can be found [here](https://github.com/mercuridi/Coursework-W13-LMNH).
+
 ### Skills
 
 
