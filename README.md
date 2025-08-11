@@ -36,6 +36,10 @@ Another project completed during this training involved data migration from an R
 
 I was also part of a group project that obtained live data on plants from an API, transformed and loaded it into RDS for short-term storage, before moving it to an S3 bucket for long-term storage, before creating a live dashboard for the museum staff. The project repo can be found [here](https://github.com/mercuridi/Coursework-W13-LMNH).
 
+I finished my Sigma Labs training in advanced data, with a 2 week group project that involved building a data pipeline that tracks new releases on major PC platforms, helping game discovery and building an understanding of what is currently being released. An online dashboard and subscriber system involving daily notificatons and daily reports was also created. The project repo can be found [here](https://github.com/JKTapper/Week-14-Game-Tracker-Project).
+
+
+
 ### Skills
 
 
