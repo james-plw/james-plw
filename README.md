@@ -15,14 +15,15 @@ Here are some ideas to get you started:
 ## Hi 👋 My name is James Wright
 =============================
 
-Physics Graduate looking to start a career in data!
+Trained Data Profesional looking to start a career in data!
 ------------------------------------------------------------
 
-I graduated from the University of Bath with a 2:1 in MPhys Physics with Astrophysics. This is where I became very accomplished at programming in both Python and C. Since graduating, I have completed online courses to further improve my Python skills, and to learn SQL, to achieve my career goals of working in data.
+I graduated from the University of Bath with a 2:1 in MPhys Physics with Astrophysics. This is where I became very accomplished at programming in both Python and C. Since graduating, I completed a training programme at Sigma Labs where I learnt software fundamentals, networking, backend, cloud, data fundamentals followed by completing multiple advanced data projects - including building live data pipelines, migrating data and deploying dashboards. Some of my projects I have completed are linked below!
+to achieve my career goals of working in data.
 
 * 🌍  I'm based near London, UK
 * ✉️  You can contact me at [james.wright2@bath.edu](mailto:james.wright2@bath.edu)
-* 🧠  I've recently learnt and practiced using SQL and Tableau
+* 🧠  I've been trained on using AWS, Terraform, Docker, Python & SQL
 
 ### Projects
 
@@ -59,6 +60,7 @@ I finished my Sigma Labs training in advanced data, with a 2 week group project 
 <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/sqlite.png" alt="SQLite" title="SQLite"/>
 <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/aws.png" alt="AWS" title="AWS"/>
 <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" alt="Docker" title="Docker"/>
+<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/terraform.png" alt="Terraform" title="Terraform"/>
 <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bash.png" alt="bash" title="bash"/>
 <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/streamlit.png" alt="Streamlit" title="Streamlit"/>
 <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mssql.png" alt="MSSQL" title="MSSQL"/>
@@ -70,4 +72,4 @@ I finished my Sigma Labs training in advanced data, with a 2 week group project 
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/james-plw" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/james-wright-245497286/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+<p align="left"> <a href="https://www.github.com/james-plw" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="50" height="50" /> </picture> </a> <a href="https://www.linkedin.com/in/james-wright-245497286/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="50" height="50" /> </picture> </a></p>
